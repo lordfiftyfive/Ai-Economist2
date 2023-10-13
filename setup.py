@@ -26,7 +26,7 @@ extra_deps = [
 
 setuptools.setup(
     name="AIEconomist2",
-    version="1.4.1",
+    version="0.0.1",
     author="Subarno Sen",
     author_email="subarnos@live.com",
     description="Simulation",
